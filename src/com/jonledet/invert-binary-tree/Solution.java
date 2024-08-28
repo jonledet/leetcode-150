@@ -14,7 +14,7 @@ import com.jonledet.types.TreeNode;
  * Beats 47.13%
  */
 
-class Solution {
+public class Solution {
     public TreeNode invertTree(TreeNode root) {
         if (root == null) {
             return root;
