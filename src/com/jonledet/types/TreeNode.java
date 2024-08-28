@@ -1,4 +1,4 @@
-package com.jonledet.error-resolution;
+package com.jonledet.types;
 
 public class TreeNode {
     int val;
