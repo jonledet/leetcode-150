@@ -6,8 +6,8 @@ This repository contains my Java solutions to the "LeetCode 150" problems. These
 
 Each problem is organized into its own folder named after the problem. The folder typically contains:
 
+- `Problem.md`: A brief explanation of the problem.
 - `Solution.java`: The Java code for the solution.
-- `README.md`: A brief explanation of the problem and the approach used to solve it.
 
 ## How to Use
 
