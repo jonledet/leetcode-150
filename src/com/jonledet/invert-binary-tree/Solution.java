@@ -1,4 +1,4 @@
-package com.jonledet.226-invert-binary-tree;
+package com.jonledet.invert-binary-tree;
 
 import com.jonledet.types.TreeNode;
 
