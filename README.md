@@ -30,4 +30,4 @@ If you'd like to suggest a different approach or optimization, feel free to open
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
