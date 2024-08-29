@@ -1,4 +1,4 @@
-package com.jonledet.invert-binary-tree;
+package com.jonledet.invertbinarytree;
 
 import com.jonledet.types.TreeNode;
 
@@ -10,8 +10,8 @@ import com.jonledet.types.TreeNode;
  * Beats 100.00%
  * 
  * Memory:
- * 41.08 MB
- * Beats 47.13%
+ * 41.00 MB
+ * Beats 63.82%
  */
 
 public class Solution {

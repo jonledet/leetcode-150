@@ -16,7 +16,13 @@ Each problem is organized into its own folder named after the problem. The folde
    git clone https://github.com/jonledet/leetcode-150.git
    ```
 2. Navigate to the desired problem's folder.
-3. Review the solution in Solution.java and the explanation in README.md.
+3. Review the solution in Solution.java and the problem in Problem.md.
+
+## Completed Solutions
+
+- [58. Length of Last Word](src/com/jonledet/lengthoflastword/Solution.java)
+- [226. Invert Binary Tree](src/com/jonledet/invertbinarytree/Solution.java)
+- [242. Valid Anagram](src/com/jonledet/validanagram/Solution.java)
 
 ## Contributing
 
