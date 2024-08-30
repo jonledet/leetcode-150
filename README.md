@@ -11,11 +11,13 @@ Each problem is organized into its own folder named after the problem. The folde
 
 ## Completed Solutions
 
-- [9. Palindrome Number](src/com/jonledet/ispalindrome/Solution.java)
-- [58. Length of Last Word](src/com/jonledet/lengthoflastword/Solution.java)
-- [191. Number of 1 Bits](src/com/jonledet/hammingweight/Solution.java)
-- [226. Invert Binary Tree](src/com/jonledet/invertbinarytree/Solution.java)
-- [242. Valid Anagram](src/com/jonledet/validanagram/Solution.java)
+| #   | Tag              | Difficulty | Problem                                                             | Solution                                                         |
+|-----|------------------|------------|---------------------------------------------------------------------|------------------------------------------------------------------|
+| 9   | Math             | Easy       | [Palindrome Number](src/com/jonledet/ispalindrome/Problem.md)       | [Solution.java](src/com/jonledet/ispalindrome/Solution.java)     |
+| 58  | String           | Easy       | [Length of Last Word](src/com/jonledet/lengthoflastword/Problem.md) | [Solution.java](src/com/jonledet/lengthoflastword/Solution.java) |
+| 191 | Bit Manipulation | Easy       | [Number of 1 Bits](src/com/jonledet/hammingweight/Problem.md)       | [Solution.java](src/com/jonledet/hammingweight/Solution.java)    |
+| 226 | Tree             | Easy       | [Invert Binary Tree](src/com/jonledet/invertbinarytree/Problem.md)  | [Solution.java](src/com/jonledet/invertbinarytree/Solution.java) |
+| 242 | String           | Easy       | [Valid Anagram](src/com/jonledet/validanagram/Problem.md)           | [Solution.java](src/com/jonledet/validanagram/Solution.java)     | 
 
 ## Contributing
 
