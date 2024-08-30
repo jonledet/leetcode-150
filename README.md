@@ -9,18 +9,11 @@ Each problem is organized into its own folder named after the problem. The folde
 - `Problem.md`: A brief explanation of the problem.
 - `Solution.java`: The Java code for the solution.
 
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/jonledet/leetcode-150.git
-   ```
-2. Navigate to the desired problem's folder.
-3. Review the solution in Solution.java and the problem in Problem.md.
-
 ## Completed Solutions
 
+- [9. Palindrome Number](src/com/jonledet/ispalindrome/Solution.java)
 - [58. Length of Last Word](src/com/jonledet/lengthoflastword/Solution.java)
+- [191. Number of 1 Bits](src/com/jonledet/hammingweight/Solution.java)
 - [226. Invert Binary Tree](src/com/jonledet/invertbinarytree/Solution.java)
 - [242. Valid Anagram](src/com/jonledet/validanagram/Solution.java)
 
