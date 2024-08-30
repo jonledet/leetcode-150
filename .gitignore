@@ -1,3 +1,5 @@
 lib/
 .vscode/
 bin/
+.idea/
+leetcode-150.iml
