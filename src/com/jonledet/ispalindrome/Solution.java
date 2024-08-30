@@ -12,8 +12,6 @@ package com.jonledet.ispalindrome;
  * Beats 47.92%
  */
 
-import java.util.ArrayList;
-
 class Solution {
     public boolean isPalindrome(int x) {
         if (x < 0) {
