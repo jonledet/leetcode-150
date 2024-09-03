@@ -1,8 +1,6 @@
 package com.jonledet.randomizedset;
 
-import java.util.Map;
-import java.util.List;
-import java.util.Random;
+import java.util.*;
 
 /*
  * 380. Insert Delete GetRandom O(1)
@@ -16,7 +14,7 @@ import java.util.Random;
  * Beats 20.33%
  */
 
-public class RandomizedSet {
+class RandomizedSet {
     Map<Integer, Integer> map;
     List<Integer> list;
     Random random;
