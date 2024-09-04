@@ -15,6 +15,7 @@ Each problem is organized into its own folder named after the problem. The folde
 |-----|------------------|------------|----------------------------------------------------------------------|------------------------------------------------------------------|
 | 9   | Math             | Easy       | [Palindrome Number](src/com/jonledet/ispalindrome/Problem.md)        | [Solution.java](src/com/jonledet/ispalindrome/Solution.java)     |
 | 58  | String           | Easy       | [Length of Last Word](src/com/jonledet/lengthoflastword/Problem.md)  | [Solution.java](src/com/jonledet/lengthoflastword/Solution.java) |
+| 66  | Array/Math       | Easy       | [Plus One](src/com/jonledet/plusone/Problem.md)                      | [Solution.java](src/com/jonledet/plusone/Solution.java)          |
 | 125 | String           | Easy       | [Valid Palindrome](src/com/jonledet/validpalindrome/Problem.md)      | [Solution.java](src/com/jonledet/validpalindrome/Solution.java)  |
 | 135 | Array            | Hard       | [Candy](src/com/jonledet/candy/Problem.md)                           | [Solution.java](src/com/jonledet/candy/Solution.java)            |
 | 136 | Bit Manipulation | Easy       | [Single Number](src/com/jonledet/singlenumber/Problem.md)            | [Solution.java](src/com/jonledet/singlenumber/Solution.java)     |
