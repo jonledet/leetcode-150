@@ -20,6 +20,7 @@ Each problem is organized into its own folder named after the problem. The folde
 | 135 | Array            | Hard       | [Candy](src/com/jonledet/candy/Problem.md)                           | [Solution.java](src/com/jonledet/candy/Solution.java)            |
 | 136 | Bit Manipulation | Easy       | [Single Number](src/com/jonledet/singlenumber/Problem.md)            | [Solution.java](src/com/jonledet/singlenumber/Solution.java)     |
 | 151 | Two Pointers     | Medium     | [Reverse Words in a String](src/com/jonledet/reversewords/Problem.md)| [Solution.java](src/com/jonledet/reversewords/Solution.java)     |
+| 169 | Array/Counting   | Easy       | [Majority Element](src/com/jonledet/majorityelement/Problem.md)      | [Solution.java](src/com/jonledet/majorityelement/Solution.java)  |
 | 191 | Bit Manipulation | Easy       | [Number of 1 Bits](src/com/jonledet/hammingweight/Problem.md)        | [Solution.java](src/com/jonledet/hammingweight/Solution.java)    |
 | 226 | Tree             | Easy       | [Invert Binary Tree](src/com/jonledet/invertbinarytree/Problem.md)   | [Solution.java](src/com/jonledet/invertbinarytree/Solution.java) |
 | 242 | String           | Easy       | [Valid Anagram](src/com/jonledet/validanagram/Problem.md)            | [Solution.java](src/com/jonledet/validanagram/Solution.java)     | 
